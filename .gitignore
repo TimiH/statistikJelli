@@ -3,4 +3,4 @@
 *.csv
 *.xlsx
 /venv/
-*.ipynb
+Settings.ipynb
