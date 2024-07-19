@@ -1,0 +1,5 @@
+/raw/
+/data/
+*.csv
+*.xlsx
+/venv/
